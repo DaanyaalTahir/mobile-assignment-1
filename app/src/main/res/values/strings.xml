@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="principle_amount">Principle Amount</string>
+    <string name="interest_rate">Interest Rate (Yearly)</string>
+    <string name="amortization_period">Amortization Period</string>
+
+</resources>
